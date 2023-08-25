@@ -1,0 +1,147 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m328pdef.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\Debug/chasiki.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\Debug/chasiki.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\Debug\chasiki.map</FILE>
+  <FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\Debug\chasiki.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RAS><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>53</LINE></RAS>
+  <cloc_taym><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>54</LINE></cloc_taym>
+  <BUFER1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>55</LINE></BUFER1>
+  <BUFER2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>56</LINE></BUFER2>
+  <BUFER3><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>57</LINE></BUFER3>
+  <DATA_BUF><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>58</LINE></DATA_BUF>
+  <reset><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>75</LINE></reset>
+  <PCINT0_int><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>194</LINE></PCINT0_int>
+  <TIM2_OVF><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>353</LINE></TIM2_OVF>
+  <TIM0_COMPA><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>457</LINE></TIM0_COMPA>
+  <NUMBER><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>72</LINE></NUMBER>
+  <ADRES><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>73</LINE></ADRES>
+  <TAYM><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>528</LINE></TAYM>
+  <budil><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>909</LINE></budil>
+  <CALEND><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>926</LINE></CALEND>
+  <SETTING><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1006</LINE></SETTING>
+  <delay2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>138</LINE></delay2>
+  <delay3><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>140</LINE></delay3>
+  <delay4><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>142</LINE></delay4>
+  <CICLE><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>173</LINE></CICLE>
+  <DELAY_INT><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>177</LINE></DELAY_INT>
+  <delay22><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>179</LINE></delay22>
+  <delay43><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>181</LINE></delay43>
+  <delay44><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>183</LINE></delay44>
+  <NOT_EXIT_INT><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>218</LINE></NOT_EXIT_INT>
+  <EXIT_INT><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>208</LINE></EXIT_INT>
+  <CICL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>235</LINE></CICL>
+  <PAUS_10><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>238</LINE></PAUS_10>
+  <CYCL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>253</LINE></CYCL>
+  <PAUS_1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>277</LINE></PAUS_1>
+  <PAUS_11><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>280</LINE></PAUS_11>
+  <OBNULEN><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>318</LINE></OBNULEN>
+  <NOT_OB><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>295</LINE></NOT_OB>
+  <DECREMENT><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>322</LINE></DECREMENT>
+  <EXIT_DEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>364</LINE></EXIT_DEC>
+  <TIM2_END><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>421</LINE></TIM2_END>
+  <TIM2_END_ALL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>435</LINE></TIM2_END_ALL>
+  <ERROR><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>404</LINE></ERROR>
+  <TIM_CLEAR><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>428</LINE></TIM_CLEAR>
+  <OBNUL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>441</LINE></OBNUL>
+  <COUNTER><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1247</LINE></COUNTER>
+  <not_onen><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>469</LINE></not_onen>
+  <ldi_one><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>467</LINE></ldi_one>
+  <INTER_SDVIG><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>476</LINE></INTER_SDVIG>
+  <NOT_INTER><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>480</LINE></NOT_INTER>
+  <NOT_3><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>500</LINE></NOT_3>
+  <not_not><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>503</LINE></not_not>
+  <CYCL1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>543</LINE></CYCL1>
+  <CICL_TAYM><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>556</LINE></CICL_TAYM>
+  <PAUS_TAYM_1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>559</LINE></PAUS_TAYM_1>
+  <inc_flag><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>695</LINE></inc_flag>
+  <return_inc><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>571</LINE></return_inc>
+  <FLAG_DEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>716</LINE></FLAG_DEC>
+  <return_dec><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>575</LINE></return_dec>
+  <CYCL2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>582</LINE></CYCL2>
+  <PAUS_TAYM_22><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>592</LINE></PAUS_TAYM_22>
+  <PAUS_TAYM_2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>595</LINE></PAUS_TAYM_2>
+  <inc_flag_min><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>738</LINE></inc_flag_min>
+  <return_inc_min><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>603</LINE></return_inc_min>
+  <return_dec_min><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>607</LINE></return_dec_min>
+  <CICL_TIME><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>627</LINE></CICL_TIME>
+  <PAUS_TAYM_3><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>630</LINE></PAUS_TAYM_3>
+  <CYCL_DELAY><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>646</LINE></CYCL_DELAY>
+  <NEXT><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>653</LINE></NEXT>
+  <CICL_RET><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>657</LINE></CICL_RET>
+  <PAUS_TAYM_4><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>660</LINE></PAUS_TAYM_4>
+  <BUF1_RAS><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>781</LINE></BUF1_RAS>
+  <INC_FLAG_DSEG><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>702</LINE></INC_FLAG_DSEG>
+  <CLEAR_FLAG_SEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>711</LINE></CLEAR_FLAG_SEC>
+  <DEC_FLAG_DSEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>723</LINE></DEC_FLAG_DSEC>
+  <CLEAR_FLAG_SEC_DEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>732</LINE></CLEAR_FLAG_SEC_DEC>
+  <INC_FLAG_DMIN><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>745</LINE></INC_FLAG_DMIN>
+  <CLEAR_FLAG_MIN><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>754</LINE></CLEAR_FLAG_MIN>
+  <FLAG_DEC_min><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>759</LINE></FLAG_DEC_min>
+  <DEC_FLAG_DMIN><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>766</LINE></DEC_FLAG_DMIN>
+  <CLEAR_FLAG_MIN_DEC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>775</LINE></CLEAR_FLAG_MIN_DEC>
+  <CYCL17><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>795</LINE></CYCL17>
+  <CICL_TAYM7><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>808</LINE></CICL_TAYM7>
+  <PAUS_TAYM_17><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>811</LINE></PAUS_TAYM_17>
+  <CYCL27><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>834</LINE></CYCL27>
+  <PAUS_TAYM_227><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>844</LINE></PAUS_TAYM_227>
+  <PAUS_TAYM_27><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>847</LINE></PAUS_TAYM_27>
+  <CICL_TIME7><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>879</LINE></CICL_TIME7>
+  <PAUS_TAYM_37><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>882</LINE></PAUS_TAYM_37>
+  <CYCL_DELAY7><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>898</LINE></CYCL_DELAY7>
+  <CYCL_CAL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>941</LINE></CYCL_CAL>
+  <CICL_CALC11><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>953</LINE></CICL_CALC11>
+  <PAUS_CAL1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>956</LINE></PAUS_CAL1>
+  <CYCL_CAL2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>973</LINE></CYCL_CAL2>
+  <CICL_CALC12><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>985</LINE></CICL_CALC12>
+  <PAUS_CAL12><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>988</LINE></PAUS_CAL12>
+  <CYCL18><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1022</LINE></CYCL18>
+  <CICL_TAYM8><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1035</LINE></CICL_TAYM8>
+  <PAUS_TAYM_18><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1038</LINE></PAUS_TAYM_18>
+  <CYCL28><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1059</LINE></CYCL28>
+  <PAUS_TAYM_228><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1069</LINE></PAUS_TAYM_228>
+  <PAUS_TAYM_28><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1072</LINE></PAUS_TAYM_28>
+  <INC_HOUR><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1341</LINE></INC_HOUR>
+  <CYCL_DELAY8><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1086</LINE></CYCL_DELAY8>
+  <CYCL19><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1115</LINE></CYCL19>
+  <CICL_TAYM9><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1128</LINE></CICL_TAYM9>
+  <PAUS_TAYM_19><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1131</LINE></PAUS_TAYM_19>
+  <CYCL29><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1152</LINE></CYCL29>
+  <PAUS_TAYM_229><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1162</LINE></PAUS_TAYM_229>
+  <PAUS_TAYM_29><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1165</LINE></PAUS_TAYM_29>
+  <CYCL_DELAY9><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1179</LINE></CYCL_DELAY9>
+  <CYCL30><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1204</LINE></CYCL30>
+  <PAUS_TAYM_230><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1214</LINE></PAUS_TAYM_230>
+  <PAUS_TAYM_30><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1217</LINE></PAUS_TAYM_30>
+  <CLEAR_WEEK><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1242</LINE></CLEAR_WEEK>
+  <RETURN_WEEK><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1229</LINE></RETURN_WEEK>
+  <NOT_SUNDAY><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1255</LINE></NOT_SUNDAY>
+  <NOT_CAP><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1266</LINE></NOT_CAP>
+  <WEEK_END><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1308</LINE></WEEK_END>
+  <APRIL><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1293</LINE></APRIL>
+  <NOT_ONE><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1283</LINE></NOT_ONE>
+  <EXIT_COUNTER><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1320</LINE></EXIT_COUNTER>
+  <NOT_ONE1><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1305</LINE></NOT_ONE1>
+  <END_YEAR><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1325</LINE></END_YEAR>
+  <NOT_ONE2><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1332</LINE></NOT_ONE2>
+  <CLEAR_HOUR_INC><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1355</LINE></CLEAR_HOUR_INC>
+  <CLEAR_H><FILE>C:\Users\HP\Documents\AVRStudio 5.1\chasiki\chasiki\chasiki.asm</FILE><LINE>1362</LINE></CLEAR_H>
+ </LABELS>
+</ASSEMBLER_INFO>
